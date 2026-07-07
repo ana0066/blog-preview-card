@@ -65,6 +65,11 @@ body{
     text-align: left;
 }
 
+.card h1:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 .card .description{
     font-size: 14px;
     margin: 10px 0 auto 20px;
